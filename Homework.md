@@ -18,5 +18,5 @@ git начнёт отслеживать изменения
 * *git checkout master* - возврат в версию, где работаете
 * *git diff* - показывает разницу между текущим файлом
 и сохранённым
-
-[def]: C:\Users\Administrator\Desktop\Papka_Seminar\Papka1\images
+ 
+ ## Спасибо за внимание!
